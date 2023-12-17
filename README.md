@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @japostadan
+- 👀 I’m interested in learning c language
+- 🌱 I’m currently learning c and python
