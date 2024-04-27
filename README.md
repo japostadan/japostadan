@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @japostadan
-- 👀 I’m interested in learning c language
-- 🌱 I’m currently learning c and python
+## About me
+- 🖥️ I’m currently studying Common Core at [42 barcelona](https://www.42barcelona.com/) after successfully completing the Piscine 🏊🏻.
+- 🔖 I’m currently learning C language.
