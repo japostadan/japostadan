@@ -20,9 +20,9 @@
 </div>
 
 <div align="center">
-  <div height="200px">
+  <div height="800" width="200">
 
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=react)
   </div>
   <div>
   
